@@ -1,0 +1,29 @@
+name: Build and Test Blazor WASM
+
+on:
+  push:
+    branches: [ main ]
+  pull_request:
+    branches: [ main ]
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Checkout código
+        uses: actions/checkout@v3
+
+      - name: Setup .NET SDK
+        uses: actions/setup-dotnet@v3
+        with:
+          dotnet-version: '8.0.x'  # ou a versão que estiver usando
+
+      - name: Restore dependências
+        run: dotnet restore
+
+      - name: Build projeto
+        run: dotnet build --configuration Release --no-restore
+
+      - name: Testes (se houver)
+        run: dotnet test --no-build --verbosity normal 
