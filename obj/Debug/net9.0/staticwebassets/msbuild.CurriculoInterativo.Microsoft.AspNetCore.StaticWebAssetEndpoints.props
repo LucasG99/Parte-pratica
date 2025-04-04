@@ -12,6 +12,18 @@
       <EndpointProperties><![CDATA[[{"Name":"integrity","Value":"sha256-yjPNgBDf4/9/GRyd8JrpeDakahaYhyGUmRhS7CqUbkc="}]]]></EndpointProperties>
       <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"no-cache"},{"Name":"Content-Length","Value":"4426"},{"Name":"Content-Type","Value":"text/css"},{"Name":"ETag","Value":"\u0022yjPNgBDf4/9/GRyd8JrpeDakahaYhyGUmRhS7CqUbkc=\u0022"},{"Name":"Last-Modified","Value":"Fri, 04 Apr 2025 13:24:42 GMT"}]]]></ResponseHeaders>
     </StaticWebAssetEndpoint>
+    <StaticWebAssetEndpoint Include="curriculo.html">
+      <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\curriculo.html'))</AssetFile>
+      <Selectors><![CDATA[[]]]></Selectors>
+      <EndpointProperties><![CDATA[[{"Name":"integrity","Value":"sha256-1c4yrWxZFDZnhFR/VovYGrcIBzyyG4GyesOmOO4VzYU="}]]]></EndpointProperties>
+      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"no-cache"},{"Name":"Content-Length","Value":"1997"},{"Name":"Content-Type","Value":"text/html"},{"Name":"ETag","Value":"\u00221c4yrWxZFDZnhFR/VovYGrcIBzyyG4GyesOmOO4VzYU=\u0022"},{"Name":"Last-Modified","Value":"Fri, 04 Apr 2025 13:26:07 GMT"}]]]></ResponseHeaders>
+    </StaticWebAssetEndpoint>
+    <StaticWebAssetEndpoint Include="curriculo.htn1gg5sry.html">
+      <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\curriculo.html'))</AssetFile>
+      <Selectors><![CDATA[[]]]></Selectors>
+      <EndpointProperties><![CDATA[[{"Name":"fingerprint","Value":"htn1gg5sry"},{"Name":"integrity","Value":"sha256-1c4yrWxZFDZnhFR/VovYGrcIBzyyG4GyesOmOO4VzYU="},{"Name":"label","Value":"curriculo.html"}]]]></EndpointProperties>
+      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"max-age=31536000, immutable"},{"Name":"Content-Length","Value":"1997"},{"Name":"Content-Type","Value":"text/html"},{"Name":"ETag","Value":"\u00221c4yrWxZFDZnhFR/VovYGrcIBzyyG4GyesOmOO4VzYU=\u0022"},{"Name":"Last-Modified","Value":"Fri, 04 Apr 2025 13:26:07 GMT"}]]]></ResponseHeaders>
+    </StaticWebAssetEndpoint>
     <StaticWebAssetEndpoint Include="CurriculoInterativo.nss3l5wwl1.styles.css">
       <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\CurriculoInterativo.styles.css'))</AssetFile>
       <Selectors><![CDATA[[]]]></Selectors>

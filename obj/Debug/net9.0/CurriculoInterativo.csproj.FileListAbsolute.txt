@@ -1,7 +1,5 @@
 C:\Users\Inteli\Documents\GitHub\2024-2A-T10-SI07-G03\Parte-pratica\CurriculoInterativo\bin\Debug\net9.0\wwwroot\_framework\blazor.boot.json
 C:\Users\Inteli\Documents\GitHub\2024-2A-T10-SI07-G03\Parte-pratica\CurriculoInterativo\bin\Debug\net9.0\wwwroot\_framework\blazor.webassembly.js
-C:\Users\Inteli\Documents\GitHub\2024-2A-T10-SI07-G03\Parte-pratica\CurriculoInterativo\bin\Debug\net9.0\wwwroot\_framework\CurriculoInterativo.yco2nc7k4p.pdb
-C:\Users\Inteli\Documents\GitHub\2024-2A-T10-SI07-G03\Parte-pratica\CurriculoInterativo\bin\Debug\net9.0\wwwroot\_framework\CurriculoInterativo.gty8c7ljef.wasm
 C:\Users\Inteli\Documents\GitHub\2024-2A-T10-SI07-G03\Parte-pratica\CurriculoInterativo\bin\Debug\net9.0\wwwroot\_framework\dotnet.js
 C:\Users\Inteli\Documents\GitHub\2024-2A-T10-SI07-G03\Parte-pratica\CurriculoInterativo\bin\Debug\net9.0\wwwroot\_framework\dotnet.js.map
 C:\Users\Inteli\Documents\GitHub\2024-2A-T10-SI07-G03\Parte-pratica\CurriculoInterativo\bin\Debug\net9.0\wwwroot\_framework\dotnet.native.1p93gcv9fh.js
@@ -300,7 +298,6 @@ C:\Users\Inteli\Documents\GitHub\2024-2A-T10-SI07-G03\Parte-pratica\CurriculoInt
 C:\Users\Inteli\Documents\GitHub\2024-2A-T10-SI07-G03\Parte-pratica\CurriculoInterativo\bin\Debug\net9.0\wwwroot\_framework\System.Security.Claims.l7kx3xked0.wasm.gz
 C:\Users\Inteli\Documents\GitHub\2024-2A-T10-SI07-G03\Parte-pratica\CurriculoInterativo\bin\Debug\net9.0\wwwroot\_framework\System.Security.Principal.l5y65m8m2t.wasm.gz
 C:\Users\Inteli\Documents\GitHub\2024-2A-T10-SI07-G03\Parte-pratica\CurriculoInterativo\bin\Debug\net9.0\wwwroot\_framework\System.ComponentModel.Annotations.w9cu337rh7.wasm.gz
-C:\Users\Inteli\Documents\GitHub\2024-2A-T10-SI07-G03\Parte-pratica\CurriculoInterativo\bin\Debug\net9.0\wwwroot\_framework\CurriculoInterativo.yco2nc7k4p.pdb.gz
 C:\Users\Inteli\Documents\GitHub\2024-2A-T10-SI07-G03\Parte-pratica\CurriculoInterativo\bin\Debug\net9.0\wwwroot\_framework\System.Buffers.m3enj6d62j.wasm.gz
 C:\Users\Inteli\Documents\GitHub\2024-2A-T10-SI07-G03\Parte-pratica\CurriculoInterativo\bin\Debug\net9.0\wwwroot\_framework\System.Diagnostics.Process.6bewsddwg5.wasm.gz
 C:\Users\Inteli\Documents\GitHub\2024-2A-T10-SI07-G03\Parte-pratica\CurriculoInterativo\bin\Debug\net9.0\wwwroot\_framework\System.Diagnostics.StackTrace.ailofr3xg4.wasm.gz
@@ -371,7 +368,6 @@ C:\Users\Inteli\Documents\GitHub\2024-2A-T10-SI07-G03\Parte-pratica\CurriculoInt
 C:\Users\Inteli\Documents\GitHub\2024-2A-T10-SI07-G03\Parte-pratica\CurriculoInterativo\bin\Debug\net9.0\wwwroot\_framework\Microsoft.Extensions.Logging.Abstractions.l8y69abh7s.wasm.gz
 C:\Users\Inteli\Documents\GitHub\2024-2A-T10-SI07-G03\Parte-pratica\CurriculoInterativo\bin\Debug\net9.0\wwwroot\_framework\blazor.webassembly.js.gz
 C:\Users\Inteli\Documents\GitHub\2024-2A-T10-SI07-G03\Parte-pratica\CurriculoInterativo\bin\Debug\net9.0\wwwroot\_framework\dotnet.native.9msu8ucn2h.wasm.gz
-C:\Users\Inteli\Documents\GitHub\2024-2A-T10-SI07-G03\Parte-pratica\CurriculoInterativo\bin\Debug\net9.0\wwwroot\_framework\CurriculoInterativo.gty8c7ljef.wasm.gz
 C:\Users\Inteli\Documents\GitHub\2024-2A-T10-SI07-G03\Parte-pratica\CurriculoInterativo\bin\Debug\net9.0\wwwroot\_framework\System.Security.Cryptography.OpenSsl.uk9h1gfypt.wasm.gz
 C:\Users\Inteli\Documents\GitHub\2024-2A-T10-SI07-G03\Parte-pratica\CurriculoInterativo\bin\Debug\net9.0\wwwroot\_framework\icudt_CJK.tjcz0u77k5.dat.gz
 C:\Users\Inteli\Documents\GitHub\2024-2A-T10-SI07-G03\Parte-pratica\CurriculoInterativo\bin\Debug\net9.0\wwwroot\_framework\System.Text.Encoding.CodePages.17ak399x9u.wasm.gz
@@ -1066,9 +1062,6 @@ C:\Users\Inteli\Documents\GitHub\2024-2A-T10-SI07-G03\Parte-pratica\CurriculoInt
 C:\Users\Inteli\Documents\GitHub\2024-2A-T10-SI07-G03\Parte-pratica\CurriculoInterativo\obj\Debug\net9.0\compressed\u091gjuz1u-tjcz0u77k5.gz
 C:\Users\Inteli\Documents\GitHub\2024-2A-T10-SI07-G03\Parte-pratica\CurriculoInterativo\obj\Debug\net9.0\compressed\emf2esvk79-tptq2av103.gz
 C:\Users\Inteli\Documents\GitHub\2024-2A-T10-SI07-G03\Parte-pratica\CurriculoInterativo\obj\Debug\net9.0\compressed\maln1a9ycf-lfu7j35m59.gz
-C:\Users\Inteli\Documents\GitHub\2024-2A-T10-SI07-G03\Parte-pratica\CurriculoInterativo\obj\Debug\net9.0\compressed\tg214clj6i-gty8c7ljef.gz
-C:\Users\Inteli\Documents\GitHub\2024-2A-T10-SI07-G03\Parte-pratica\CurriculoInterativo\obj\Debug\net9.0\compressed\fb5wa3i8sh-yco2nc7k4p.gz
-C:\Users\Inteli\Documents\GitHub\2024-2A-T10-SI07-G03\Parte-pratica\CurriculoInterativo\obj\Debug\net9.0\compressed\81c9wb6xnr-ce3viqm9kt.gz
 C:\Users\Inteli\Documents\GitHub\2024-2A-T10-SI07-G03\Parte-pratica\CurriculoInterativo\obj\Debug\net9.0\staticwebassets.build.json
 C:\Users\Inteli\Documents\GitHub\2024-2A-T10-SI07-G03\Parte-pratica\CurriculoInterativo\obj\Debug\net9.0\staticwebassets.development.json
 C:\Users\Inteli\Documents\GitHub\2024-2A-T10-SI07-G03\Parte-pratica\CurriculoInterativo\obj\Debug\net9.0\staticwebassets.build.endpoints.json
@@ -1083,3 +1076,11 @@ C:\Users\Inteli\Documents\GitHub\2024-2A-T10-SI07-G03\Parte-pratica\CurriculoInt
 C:\Users\Inteli\Documents\GitHub\2024-2A-T10-SI07-G03\Parte-pratica\CurriculoInterativo\obj\Debug\net9.0\refint\CurriculoInterativo.dll
 C:\Users\Inteli\Documents\GitHub\2024-2A-T10-SI07-G03\Parte-pratica\CurriculoInterativo\obj\Debug\net9.0\CurriculoInterativo.pdb
 C:\Users\Inteli\Documents\GitHub\2024-2A-T10-SI07-G03\Parte-pratica\CurriculoInterativo\obj\Debug\net9.0\ref\CurriculoInterativo.dll
+C:\Users\Inteli\Documents\GitHub\2024-2A-T10-SI07-G03\Parte-pratica\CurriculoInterativo\bin\Debug\net9.0\wwwroot\_framework\CurriculoInterativo.oppw5exase.pdb
+C:\Users\Inteli\Documents\GitHub\2024-2A-T10-SI07-G03\Parte-pratica\CurriculoInterativo\bin\Debug\net9.0\wwwroot\_framework\CurriculoInterativo.pzqliyocaz.wasm
+C:\Users\Inteli\Documents\GitHub\2024-2A-T10-SI07-G03\Parte-pratica\CurriculoInterativo\bin\Debug\net9.0\wwwroot\_framework\CurriculoInterativo.oppw5exase.pdb.gz
+C:\Users\Inteli\Documents\GitHub\2024-2A-T10-SI07-G03\Parte-pratica\CurriculoInterativo\bin\Debug\net9.0\wwwroot\_framework\CurriculoInterativo.pzqliyocaz.wasm.gz
+C:\Users\Inteli\Documents\GitHub\2024-2A-T10-SI07-G03\Parte-pratica\CurriculoInterativo\obj\Debug\net9.0\compressed\yjxumy9lk8-htn1gg5sry.gz
+C:\Users\Inteli\Documents\GitHub\2024-2A-T10-SI07-G03\Parte-pratica\CurriculoInterativo\obj\Debug\net9.0\compressed\tg214clj6i-pzqliyocaz.gz
+C:\Users\Inteli\Documents\GitHub\2024-2A-T10-SI07-G03\Parte-pratica\CurriculoInterativo\obj\Debug\net9.0\compressed\fb5wa3i8sh-oppw5exase.gz
+C:\Users\Inteli\Documents\GitHub\2024-2A-T10-SI07-G03\Parte-pratica\CurriculoInterativo\obj\Debug\net9.0\compressed\81c9wb6xnr-6w3ccd8y2c.gz

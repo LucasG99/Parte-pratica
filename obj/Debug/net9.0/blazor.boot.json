@@ -1,7 +1,7 @@
 {
   "mainAssemblyName": "CurriculoInterativo",
   "resources": {
-    "hash": "sha256-8Y/Gzfb3ZNmiEBqEp3D3vUojAYRLgzooJdbOPZ8Lloo=",
+    "hash": "sha256-MFsQXlgZmBGsW8YRIPvFOzkO1RAuHtx2gVGwkEv64dc=",
     "fingerprinting": {
       "Microsoft.AspNetCore.Authorization.da83xzpz5r.wasm": "Microsoft.AspNetCore.Authorization.wasm",
       "Microsoft.AspNetCore.Components.vmzb2angnn.wasm": "Microsoft.AspNetCore.Components.wasm",
@@ -201,8 +201,8 @@
       "icudt_CJK.tjcz0u77k5.dat": "icudt_CJK.dat",
       "icudt_EFIGS.tptq2av103.dat": "icudt_EFIGS.dat",
       "icudt_no_CJK.lfu7j35m59.dat": "icudt_no_CJK.dat",
-      "CurriculoInterativo.gty8c7ljef.wasm": "CurriculoInterativo.wasm",
-      "CurriculoInterativo.yco2nc7k4p.pdb": "CurriculoInterativo.pdb"
+      "CurriculoInterativo.pzqliyocaz.wasm": "CurriculoInterativo.wasm",
+      "CurriculoInterativo.oppw5exase.pdb": "CurriculoInterativo.pdb"
     },
     "jsModuleNative": {
       "dotnet.native.1p93gcv9fh.js": "sha256-1UPiprzN3JhPftx3be7XEMaYlUN+chRF41CuttiWVtQ="
@@ -412,10 +412,10 @@
       "WindowsBase.ag32297siy.wasm": "sha256-BgyZxTgdU9rIYlNC9ZMiMjnvBAJSL0eQH8Y87o1M+q4=",
       "mscorlib.vt9pwshhot.wasm": "sha256-/aFxOaPc1iTNlJw0z4/RGEMD0nzl4qVE3SF4wMsLgp0=",
       "netstandard.or41gtprh3.wasm": "sha256-nD1KqAI5YYz+YohqHaZ5EmXi7Eq9Uy9sUknnI8sj1AM=",
-      "CurriculoInterativo.gty8c7ljef.wasm": "sha256-vIVW3vc0OfS+U6jK/OdWJNViSg8vYXqttoRJSF/bzd4="
+      "CurriculoInterativo.pzqliyocaz.wasm": "sha256-5RXhuruzOYhQTQHGbraEeuwT2jBblT/NThGhBmKTHSM="
     },
     "pdb": {
-      "CurriculoInterativo.yco2nc7k4p.pdb": "sha256-LoFit6z6he3AKoiaCmt1gLXbCSxrJ+MyWJqNzF71p7s="
+      "CurriculoInterativo.oppw5exase.pdb": "sha256-1AhQbc7QOUf93p9kLkDxykHCt7OmCFDA3u84BBlbvBA="
     }
   },
   "cacheBootResources": true,

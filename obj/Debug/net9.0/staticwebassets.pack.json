@@ -13,6 +13,10 @@
       "PackagePath": "staticwebassets\\css\\app.css"
     },
     {
+      "Id": "C:\\Users\\Inteli\\Documents\\GitHub\\2024-2A-T10-SI07-G03\\Parte-pratica\\CurriculoInterativo\\wwwroot\\curriculo.html",
+      "PackagePath": "staticwebassets\\curriculo.html"
+    },
+    {
       "Id": "C:\\Users\\Inteli\\Documents\\GitHub\\2024-2A-T10-SI07-G03\\Parte-pratica\\CurriculoInterativo\\wwwroot\\favicon.png",
       "PackagePath": "staticwebassets\\favicon.png"
     },

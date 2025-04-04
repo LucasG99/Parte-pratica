@@ -1,6 +1,6 @@
 {
   "Version": 1,
-  "Hash": "nJgwdgfvLe85LSCWj/1j5ekCh0G1XSAOSc+dzUQb+Kg=",
+  "Hash": "HNYxQfhOtiTiufmJlXccYCkwU92jkGNLEDaSE1Pr1FY=",
   "Source": "CurriculoInterativo",
   "BasePath": "/",
   "Mode": "Root",
@@ -31,8 +31,8 @@
       "RelatedAsset": "",
       "AssetTraitName": "WasmResource",
       "AssetTraitValue": "manifest",
-      "Fingerprint": "ce3viqm9kt",
-      "Integrity": "9LzrGhYotFEETXrxnyhx/im5jYdNYSipXz86ZNoiyYc=",
+      "Fingerprint": "6w3ccd8y2c",
+      "Integrity": "tn6VbPYCSb88VMCATgTbz7+dQnR1JUqs5ODd9M/DBNU=",
       "CopyToOutputDirectory": "PreserveNewest",
       "CopyToPublishDirectory": "Never",
       "OriginalItemSpec": "obj\\Debug\\net9.0\\blazor.boot.json"
@@ -73,8 +73,8 @@
       "RelatedAsset": "",
       "AssetTraitName": "WasmResource",
       "AssetTraitValue": "symbol",
-      "Fingerprint": "yco2nc7k4p",
-      "Integrity": "LoFit6z6he3AKoiaCmt1gLXbCSxrJ+MyWJqNzF71p7s=",
+      "Fingerprint": "oppw5exase",
+      "Integrity": "1AhQbc7QOUf93p9kLkDxykHCt7OmCFDA3u84BBlbvBA=",
       "CopyToOutputDirectory": "PreserveNewest",
       "CopyToPublishDirectory": "Never",
       "OriginalItemSpec": "obj\\Debug\\net9.0\\CurriculoInterativo.pdb"
@@ -94,8 +94,8 @@
       "RelatedAsset": "",
       "AssetTraitName": "WasmResource",
       "AssetTraitValue": "runtime",
-      "Fingerprint": "gty8c7ljef",
-      "Integrity": "vIVW3vc0OfS+U6jK/OdWJNViSg8vYXqttoRJSF/bzd4=",
+      "Fingerprint": "pzqliyocaz",
+      "Integrity": "5RXhuruzOYhQTQHGbraEeuwT2jBblT/NThGhBmKTHSM=",
       "CopyToOutputDirectory": "PreserveNewest",
       "CopyToPublishDirectory": "Never",
       "OriginalItemSpec": "C:\\Users\\Inteli\\Documents\\GitHub\\2024-2A-T10-SI07-G03\\Parte-pratica\\CurriculoInterativo\\obj\\Debug\\net9.0\\webcil\\CurriculoInterativo.wasm"
@@ -5540,7 +5540,7 @@
       "OriginalItemSpec": "C:\\Users\\Inteli\\Documents\\GitHub\\2024-2A-T10-SI07-G03\\Parte-pratica\\CurriculoInterativo\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css"
     },
     {
-      "Identity": "C:\\Users\\Inteli\\Documents\\GitHub\\2024-2A-T10-SI07-G03\\Parte-pratica\\CurriculoInterativo\\obj\\Debug\\net9.0\\compressed\\81c9wb6xnr-ce3viqm9kt.gz",
+      "Identity": "C:\\Users\\Inteli\\Documents\\GitHub\\2024-2A-T10-SI07-G03\\Parte-pratica\\CurriculoInterativo\\obj\\Debug\\net9.0\\compressed\\81c9wb6xnr-6w3ccd8y2c.gz",
       "SourceId": "CurriculoInterativo",
       "SourceType": "Computed",
       "ContentRoot": "C:\\Users\\Inteli\\Documents\\GitHub\\2024-2A-T10-SI07-G03\\Parte-pratica\\CurriculoInterativo\\obj\\Debug\\net9.0\\compressed\\",
@@ -5554,8 +5554,8 @@
       "RelatedAsset": "C:\\Users\\Inteli\\Documents\\GitHub\\2024-2A-T10-SI07-G03\\Parte-pratica\\CurriculoInterativo\\bin\\Debug\\net9.0\\wwwroot\\_framework\\blazor.boot.json",
       "AssetTraitName": "Content-Encoding",
       "AssetTraitValue": "gzip",
-      "Fingerprint": "hjk29xqxu5",
-      "Integrity": "fYGnMjtgFG41i9GAV1iyR9bpa5OWkjTzC/D5fucKLdc=",
+      "Fingerprint": "0sebz1j8rn",
+      "Integrity": "kPbK16AsNaAnhNnCJ1o3RXv00NspsX/pOhKhxl2YpyE=",
       "CopyToOutputDirectory": "PreserveNewest",
       "CopyToPublishDirectory": "Never",
       "OriginalItemSpec": "C:\\Users\\Inteli\\Documents\\GitHub\\2024-2A-T10-SI07-G03\\Parte-pratica\\CurriculoInterativo\\bin\\Debug\\net9.0\\wwwroot\\_framework\\blazor.boot.json"
@@ -6905,12 +6905,12 @@
       "OriginalItemSpec": "C:\\Users\\Inteli\\Documents\\GitHub\\2024-2A-T10-SI07-G03\\Parte-pratica\\CurriculoInterativo\\bin\\Debug\\net9.0\\wwwroot\\_framework\\System.ComponentModel.Annotations.wasm"
     },
     {
-      "Identity": "C:\\Users\\Inteli\\Documents\\GitHub\\2024-2A-T10-SI07-G03\\Parte-pratica\\CurriculoInterativo\\obj\\Debug\\net9.0\\compressed\\fb5wa3i8sh-yco2nc7k4p.gz",
+      "Identity": "C:\\Users\\Inteli\\Documents\\GitHub\\2024-2A-T10-SI07-G03\\Parte-pratica\\CurriculoInterativo\\obj\\Debug\\net9.0\\compressed\\fb5wa3i8sh-oppw5exase.gz",
       "SourceId": "CurriculoInterativo",
       "SourceType": "Computed",
       "ContentRoot": "C:\\Users\\Inteli\\Documents\\GitHub\\2024-2A-T10-SI07-G03\\Parte-pratica\\CurriculoInterativo\\obj\\Debug\\net9.0\\compressed\\",
       "BasePath": "/",
-      "RelativePath": "_framework/CurriculoInterativo#[.{fingerprint=yco2nc7k4p}]!.pdb.gz",
+      "RelativePath": "_framework/CurriculoInterativo#[.{fingerprint=oppw5exase}]!.pdb.gz",
       "AssetKind": "Build",
       "AssetMode": "All",
       "AssetRole": "Alternative",
@@ -6919,8 +6919,8 @@
       "RelatedAsset": "C:\\Users\\Inteli\\Documents\\GitHub\\2024-2A-T10-SI07-G03\\Parte-pratica\\CurriculoInterativo\\bin\\Debug\\net9.0\\wwwroot\\_framework\\CurriculoInterativo.pdb",
       "AssetTraitName": "Content-Encoding",
       "AssetTraitValue": "gzip",
-      "Fingerprint": "zy268cufhi",
-      "Integrity": "dVP8/4iB0N/qb2O9vKkMiXko/s8pUBTK277tBxrN7Ns=",
+      "Fingerprint": "33paa8jlmb",
+      "Integrity": "f3cI9D9Cd78mA2DRLzwAu0vdjCuZlPvzUFjZB0xqLAs=",
       "CopyToOutputDirectory": "PreserveNewest",
       "CopyToPublishDirectory": "Never",
       "OriginalItemSpec": "C:\\Users\\Inteli\\Documents\\GitHub\\2024-2A-T10-SI07-G03\\Parte-pratica\\CurriculoInterativo\\bin\\Debug\\net9.0\\wwwroot\\_framework\\CurriculoInterativo.pdb"
@@ -8753,12 +8753,12 @@
       "OriginalItemSpec": "C:\\Users\\Inteli\\Documents\\GitHub\\2024-2A-T10-SI07-G03\\Parte-pratica\\CurriculoInterativo\\bin\\Debug\\net9.0\\wwwroot\\_framework\\dotnet.native.wasm"
     },
     {
-      "Identity": "C:\\Users\\Inteli\\Documents\\GitHub\\2024-2A-T10-SI07-G03\\Parte-pratica\\CurriculoInterativo\\obj\\Debug\\net9.0\\compressed\\tg214clj6i-gty8c7ljef.gz",
+      "Identity": "C:\\Users\\Inteli\\Documents\\GitHub\\2024-2A-T10-SI07-G03\\Parte-pratica\\CurriculoInterativo\\obj\\Debug\\net9.0\\compressed\\tg214clj6i-pzqliyocaz.gz",
       "SourceId": "CurriculoInterativo",
       "SourceType": "Computed",
       "ContentRoot": "C:\\Users\\Inteli\\Documents\\GitHub\\2024-2A-T10-SI07-G03\\Parte-pratica\\CurriculoInterativo\\obj\\Debug\\net9.0\\compressed\\",
       "BasePath": "/",
-      "RelativePath": "_framework/CurriculoInterativo#[.{fingerprint=gty8c7ljef}]!.wasm.gz",
+      "RelativePath": "_framework/CurriculoInterativo#[.{fingerprint=pzqliyocaz}]!.wasm.gz",
       "AssetKind": "Build",
       "AssetMode": "All",
       "AssetRole": "Alternative",
@@ -8767,8 +8767,8 @@
       "RelatedAsset": "C:\\Users\\Inteli\\Documents\\GitHub\\2024-2A-T10-SI07-G03\\Parte-pratica\\CurriculoInterativo\\bin\\Debug\\net9.0\\wwwroot\\_framework\\CurriculoInterativo.wasm",
       "AssetTraitName": "Content-Encoding",
       "AssetTraitValue": "gzip",
-      "Fingerprint": "2t5j7u9qyt",
-      "Integrity": "2qy/fIKd9XHa6TlwwQSGlVvczfz96jaUVCbn1yBD71c=",
+      "Fingerprint": "3ja31l1pz3",
+      "Integrity": "D72N9OhNjf1kMuQ445vlWQz7j8dDizSd6vdKA5DKj1Q=",
       "CopyToOutputDirectory": "PreserveNewest",
       "CopyToPublishDirectory": "Never",
       "OriginalItemSpec": "C:\\Users\\Inteli\\Documents\\GitHub\\2024-2A-T10-SI07-G03\\Parte-pratica\\CurriculoInterativo\\bin\\Debug\\net9.0\\wwwroot\\_framework\\CurriculoInterativo.wasm"
@@ -9467,6 +9467,27 @@
       "OriginalItemSpec": "C:\\Users\\Inteli\\Documents\\GitHub\\2024-2A-T10-SI07-G03\\Parte-pratica\\CurriculoInterativo\\bin\\Debug\\net9.0\\wwwroot\\_framework\\System.Resources.Writer.wasm"
     },
     {
+      "Identity": "C:\\Users\\Inteli\\Documents\\GitHub\\2024-2A-T10-SI07-G03\\Parte-pratica\\CurriculoInterativo\\obj\\Debug\\net9.0\\compressed\\yjxumy9lk8-htn1gg5sry.gz",
+      "SourceId": "CurriculoInterativo",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\Inteli\\Documents\\GitHub\\2024-2A-T10-SI07-G03\\Parte-pratica\\CurriculoInterativo\\obj\\Debug\\net9.0\\compressed\\",
+      "BasePath": "/",
+      "RelativePath": "curriculo#[.{fingerprint=htn1gg5sry}]?.html.gz",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Alternative",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "C:\\Users\\Inteli\\Documents\\GitHub\\2024-2A-T10-SI07-G03\\Parte-pratica\\CurriculoInterativo\\wwwroot\\curriculo.html",
+      "AssetTraitName": "Content-Encoding",
+      "AssetTraitValue": "gzip",
+      "Fingerprint": "03hj9ch317",
+      "Integrity": "PAacjRNngZ8WpfDpCqAOGD2Finih4NVkf0qMIILbZnQ=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "C:\\Users\\Inteli\\Documents\\GitHub\\2024-2A-T10-SI07-G03\\Parte-pratica\\CurriculoInterativo\\wwwroot\\curriculo.html"
+    },
+    {
       "Identity": "C:\\Users\\Inteli\\Documents\\GitHub\\2024-2A-T10-SI07-G03\\Parte-pratica\\CurriculoInterativo\\obj\\Debug\\net9.0\\compressed\\ymjuiqb6sw-5os0vainak.gz",
       "SourceId": "CurriculoInterativo",
       "SourceType": "Computed",
@@ -9675,6 +9696,27 @@
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
       "OriginalItemSpec": "wwwroot\\css\\app.css"
+    },
+    {
+      "Identity": "C:\\Users\\Inteli\\Documents\\GitHub\\2024-2A-T10-SI07-G03\\Parte-pratica\\CurriculoInterativo\\wwwroot\\curriculo.html",
+      "SourceId": "CurriculoInterativo",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\Inteli\\Documents\\GitHub\\2024-2A-T10-SI07-G03\\Parte-pratica\\CurriculoInterativo\\wwwroot\\",
+      "BasePath": "/",
+      "RelativePath": "curriculo#[.{fingerprint}]?.html",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "htn1gg5sry",
+      "Integrity": "1c4yrWxZFDZnhFR/VovYGrcIBzyyG4GyesOmOO4VzYU=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\curriculo.html"
     },
     {
       "Identity": "C:\\Users\\Inteli\\Documents\\GitHub\\2024-2A-T10-SI07-G03\\Parte-pratica\\CurriculoInterativo\\wwwroot\\favicon.png",
@@ -10705,11 +10747,11 @@
         },
         {
           "Name": "ETag",
-          "Value": "\"9LzrGhYotFEETXrxnyhx/im5jYdNYSipXz86ZNoiyYc=\""
+          "Value": "\"tn6VbPYCSb88VMCATgTbz7+dQnR1JUqs5ODd9M/DBNU=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Fri, 04 Apr 2025 13:25:45 GMT"
+          "Value": "Fri, 04 Apr 2025 13:48:26 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -10719,18 +10761,18 @@
       "EndpointProperties": [
         {
           "Name": "integrity",
-          "Value": "sha256-9LzrGhYotFEETXrxnyhx/im5jYdNYSipXz86ZNoiyYc="
+          "Value": "sha256-tn6VbPYCSb88VMCATgTbz7+dQnR1JUqs5ODd9M/DBNU="
         }
       ]
     },
     {
       "Route": "_framework/blazor.boot.json",
-      "AssetFile": "C:\\Users\\Inteli\\Documents\\GitHub\\2024-2A-T10-SI07-G03\\Parte-pratica\\CurriculoInterativo\\obj\\Debug\\net9.0\\compressed\\81c9wb6xnr-ce3viqm9kt.gz",
+      "AssetFile": "C:\\Users\\Inteli\\Documents\\GitHub\\2024-2A-T10-SI07-G03\\Parte-pratica\\CurriculoInterativo\\obj\\Debug\\net9.0\\compressed\\81c9wb6xnr-6w3ccd8y2c.gz",
       "Selectors": [
         {
           "Name": "Content-Encoding",
           "Value": "gzip",
-          "Quality": "0.000081201786"
+          "Quality": "0.000081214976"
         }
       ],
       "ResponseHeaders": [
@@ -10740,15 +10782,15 @@
         },
         {
           "Name": "Content-Length",
-          "Value": "12314"
+          "Value": "12312"
         },
         {
           "Name": "ETag",
-          "Value": "\"fYGnMjtgFG41i9GAV1iyR9bpa5OWkjTzC/D5fucKLdc=\""
+          "Value": "\"kPbK16AsNaAnhNnCJ1o3RXv00NspsX/pOhKhxl2YpyE=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Fri, 04 Apr 2025 13:25:45 GMT"
+          "Value": "Fri, 04 Apr 2025 13:44:48 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -10768,19 +10810,19 @@
         },
         {
           "Name": "ETag",
-          "Value": "W/\"9LzrGhYotFEETXrxnyhx/im5jYdNYSipXz86ZNoiyYc=\""
+          "Value": "W/\"tn6VbPYCSb88VMCATgTbz7+dQnR1JUqs5ODd9M/DBNU=\""
         }
       ],
       "EndpointProperties": [
         {
           "Name": "integrity",
-          "Value": "sha256-9LzrGhYotFEETXrxnyhx/im5jYdNYSipXz86ZNoiyYc="
+          "Value": "sha256-tn6VbPYCSb88VMCATgTbz7+dQnR1JUqs5ODd9M/DBNU="
         }
       ]
     },
     {
       "Route": "_framework/blazor.boot.json.gz",
-      "AssetFile": "C:\\Users\\Inteli\\Documents\\GitHub\\2024-2A-T10-SI07-G03\\Parte-pratica\\CurriculoInterativo\\obj\\Debug\\net9.0\\compressed\\81c9wb6xnr-ce3viqm9kt.gz",
+      "AssetFile": "C:\\Users\\Inteli\\Documents\\GitHub\\2024-2A-T10-SI07-G03\\Parte-pratica\\CurriculoInterativo\\obj\\Debug\\net9.0\\compressed\\81c9wb6xnr-6w3ccd8y2c.gz",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -10789,7 +10831,7 @@
         },
         {
           "Name": "Content-Length",
-          "Value": "12314"
+          "Value": "12312"
         },
         {
           "Name": "Content-Type",
@@ -10797,11 +10839,11 @@
         },
         {
           "Name": "ETag",
-          "Value": "\"fYGnMjtgFG41i9GAV1iyR9bpa5OWkjTzC/D5fucKLdc=\""
+          "Value": "\"kPbK16AsNaAnhNnCJ1o3RXv00NspsX/pOhKhxl2YpyE=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Fri, 04 Apr 2025 13:25:45 GMT"
+          "Value": "Fri, 04 Apr 2025 13:44:48 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -10819,7 +10861,7 @@
       "EndpointProperties": [
         {
           "Name": "integrity",
-          "Value": "sha256-fYGnMjtgFG41i9GAV1iyR9bpa5OWkjTzC/D5fucKLdc="
+          "Value": "sha256-kPbK16AsNaAnhNnCJ1o3RXv00NspsX/pOhKhxl2YpyE="
         }
       ]
     },
@@ -10885,7 +10927,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Fri, 04 Apr 2025 13:25:46 GMT"
+          "Value": "Thu, 13 Feb 2025 03:03:28 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -10938,7 +10980,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Fri, 04 Apr 2025 13:25:46 GMT"
+          "Value": "Thu, 13 Feb 2025 03:03:28 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -10961,168 +11003,7 @@
       ]
     },
     {
-      "Route": "_framework/CurriculoInterativo.gty8c7ljef.wasm",
-      "AssetFile": "C:\\Users\\Inteli\\Documents\\GitHub\\2024-2A-T10-SI07-G03\\Parte-pratica\\CurriculoInterativo\\bin\\Debug\\net9.0\\wwwroot\\_framework\\CurriculoInterativo.wasm",
-      "Selectors": [],
-      "ResponseHeaders": [
-        {
-          "Name": "Accept-Ranges",
-          "Value": "bytes"
-        },
-        {
-          "Name": "Content-Length",
-          "Value": "19733"
-        },
-        {
-          "Name": "Content-Type",
-          "Value": "application/wasm"
-        },
-        {
-          "Name": "ETag",
-          "Value": "\"vIVW3vc0OfS+U6jK/OdWJNViSg8vYXqttoRJSF/bzd4=\""
-        },
-        {
-          "Name": "Last-Modified",
-          "Value": "Fri, 04 Apr 2025 13:25:44 GMT"
-        },
-        {
-          "Name": "Cache-Control",
-          "Value": "max-age=31536000, immutable"
-        }
-      ],
-      "EndpointProperties": [
-        {
-          "Name": "fingerprint",
-          "Value": "gty8c7ljef"
-        },
-        {
-          "Name": "label",
-          "Value": "_framework/CurriculoInterativo.wasm"
-        },
-        {
-          "Name": "integrity",
-          "Value": "sha256-vIVW3vc0OfS+U6jK/OdWJNViSg8vYXqttoRJSF/bzd4="
-        }
-      ]
-    },
-    {
-      "Route": "_framework/CurriculoInterativo.gty8c7ljef.wasm",
-      "AssetFile": "C:\\Users\\Inteli\\Documents\\GitHub\\2024-2A-T10-SI07-G03\\Parte-pratica\\CurriculoInterativo\\obj\\Debug\\net9.0\\compressed\\tg214clj6i-gty8c7ljef.gz",
-      "Selectors": [
-        {
-          "Name": "Content-Encoding",
-          "Value": "gzip",
-          "Quality": "0.000122234446"
-        }
-      ],
-      "ResponseHeaders": [
-        {
-          "Name": "Accept-Ranges",
-          "Value": "bytes"
-        },
-        {
-          "Name": "Content-Length",
-          "Value": "8180"
-        },
-        {
-          "Name": "ETag",
-          "Value": "\"2qy/fIKd9XHa6TlwwQSGlVvczfz96jaUVCbn1yBD71c=\""
-        },
-        {
-          "Name": "Last-Modified",
-          "Value": "Fri, 04 Apr 2025 13:25:45 GMT"
-        },
-        {
-          "Name": "Cache-Control",
-          "Value": "max-age=31536000, immutable"
-        },
-        {
-          "Name": "Content-Encoding",
-          "Value": "gzip"
-        },
-        {
-          "Name": "Vary",
-          "Value": "Content-Encoding"
-        },
-        {
-          "Name": "Content-Type",
-          "Value": "application/wasm"
-        },
-        {
-          "Name": "ETag",
-          "Value": "W/\"vIVW3vc0OfS+U6jK/OdWJNViSg8vYXqttoRJSF/bzd4=\""
-        }
-      ],
-      "EndpointProperties": [
-        {
-          "Name": "fingerprint",
-          "Value": "gty8c7ljef"
-        },
-        {
-          "Name": "label",
-          "Value": "_framework/CurriculoInterativo.wasm"
-        },
-        {
-          "Name": "integrity",
-          "Value": "sha256-vIVW3vc0OfS+U6jK/OdWJNViSg8vYXqttoRJSF/bzd4="
-        }
-      ]
-    },
-    {
-      "Route": "_framework/CurriculoInterativo.gty8c7ljef.wasm.gz",
-      "AssetFile": "C:\\Users\\Inteli\\Documents\\GitHub\\2024-2A-T10-SI07-G03\\Parte-pratica\\CurriculoInterativo\\obj\\Debug\\net9.0\\compressed\\tg214clj6i-gty8c7ljef.gz",
-      "Selectors": [],
-      "ResponseHeaders": [
-        {
-          "Name": "Accept-Ranges",
-          "Value": "bytes"
-        },
-        {
-          "Name": "Content-Length",
-          "Value": "8180"
-        },
-        {
-          "Name": "Content-Type",
-          "Value": "application/wasm"
-        },
-        {
-          "Name": "ETag",
-          "Value": "\"2qy/fIKd9XHa6TlwwQSGlVvczfz96jaUVCbn1yBD71c=\""
-        },
-        {
-          "Name": "Last-Modified",
-          "Value": "Fri, 04 Apr 2025 13:25:45 GMT"
-        },
-        {
-          "Name": "Cache-Control",
-          "Value": "max-age=31536000, immutable"
-        },
-        {
-          "Name": "Content-Encoding",
-          "Value": "gzip"
-        },
-        {
-          "Name": "Vary",
-          "Value": "Content-Encoding"
-        }
-      ],
-      "EndpointProperties": [
-        {
-          "Name": "fingerprint",
-          "Value": "gty8c7ljef"
-        },
-        {
-          "Name": "label",
-          "Value": "_framework/CurriculoInterativo.wasm.gz"
-        },
-        {
-          "Name": "integrity",
-          "Value": "sha256-2qy/fIKd9XHa6TlwwQSGlVvczfz96jaUVCbn1yBD71c="
-        }
-      ]
-    },
-    {
-      "Route": "_framework/CurriculoInterativo.pdb",
+      "Route": "_framework/CurriculoInterativo.oppw5exase.pdb",
       "AssetFile": "C:\\Users\\Inteli\\Documents\\GitHub\\2024-2A-T10-SI07-G03\\Parte-pratica\\CurriculoInterativo\\bin\\Debug\\net9.0\\wwwroot\\_framework\\CurriculoInterativo.pdb",
       "Selectors": [],
       "ResponseHeaders": [
@@ -11140,285 +11021,11 @@
         },
         {
           "Name": "ETag",
-          "Value": "\"LoFit6z6he3AKoiaCmt1gLXbCSxrJ+MyWJqNzF71p7s=\""
+          "Value": "\"1AhQbc7QOUf93p9kLkDxykHCt7OmCFDA3u84BBlbvBA=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Fri, 04 Apr 2025 13:25:42 GMT"
-        },
-        {
-          "Name": "Cache-Control",
-          "Value": "no-cache"
-        }
-      ],
-      "EndpointProperties": [
-        {
-          "Name": "integrity",
-          "Value": "sha256-LoFit6z6he3AKoiaCmt1gLXbCSxrJ+MyWJqNzF71p7s="
-        }
-      ]
-    },
-    {
-      "Route": "_framework/CurriculoInterativo.pdb",
-      "AssetFile": "C:\\Users\\Inteli\\Documents\\GitHub\\2024-2A-T10-SI07-G03\\Parte-pratica\\CurriculoInterativo\\obj\\Debug\\net9.0\\compressed\\fb5wa3i8sh-yco2nc7k4p.gz",
-      "Selectors": [
-        {
-          "Name": "Content-Encoding",
-          "Value": "gzip",
-          "Quality": "0.000056824639"
-        }
-      ],
-      "ResponseHeaders": [
-        {
-          "Name": "Accept-Ranges",
-          "Value": "bytes"
-        },
-        {
-          "Name": "Content-Length",
-          "Value": "17597"
-        },
-        {
-          "Name": "ETag",
-          "Value": "\"dVP8/4iB0N/qb2O9vKkMiXko/s8pUBTK277tBxrN7Ns=\""
-        },
-        {
-          "Name": "Last-Modified",
-          "Value": "Fri, 04 Apr 2025 13:25:45 GMT"
-        },
-        {
-          "Name": "Cache-Control",
-          "Value": "no-cache"
-        },
-        {
-          "Name": "Content-Encoding",
-          "Value": "gzip"
-        },
-        {
-          "Name": "Vary",
-          "Value": "Content-Encoding"
-        },
-        {
-          "Name": "Content-Type",
-          "Value": "application/octet-stream"
-        },
-        {
-          "Name": "ETag",
-          "Value": "W/\"LoFit6z6he3AKoiaCmt1gLXbCSxrJ+MyWJqNzF71p7s=\""
-        }
-      ],
-      "EndpointProperties": [
-        {
-          "Name": "integrity",
-          "Value": "sha256-LoFit6z6he3AKoiaCmt1gLXbCSxrJ+MyWJqNzF71p7s="
-        }
-      ]
-    },
-    {
-      "Route": "_framework/CurriculoInterativo.pdb.gz",
-      "AssetFile": "C:\\Users\\Inteli\\Documents\\GitHub\\2024-2A-T10-SI07-G03\\Parte-pratica\\CurriculoInterativo\\obj\\Debug\\net9.0\\compressed\\fb5wa3i8sh-yco2nc7k4p.gz",
-      "Selectors": [],
-      "ResponseHeaders": [
-        {
-          "Name": "Accept-Ranges",
-          "Value": "bytes"
-        },
-        {
-          "Name": "Content-Length",
-          "Value": "17597"
-        },
-        {
-          "Name": "Content-Type",
-          "Value": "application/octet-stream"
-        },
-        {
-          "Name": "ETag",
-          "Value": "\"dVP8/4iB0N/qb2O9vKkMiXko/s8pUBTK277tBxrN7Ns=\""
-        },
-        {
-          "Name": "Last-Modified",
-          "Value": "Fri, 04 Apr 2025 13:25:45 GMT"
-        },
-        {
-          "Name": "Cache-Control",
-          "Value": "no-cache"
-        },
-        {
-          "Name": "Content-Encoding",
-          "Value": "gzip"
-        },
-        {
-          "Name": "Vary",
-          "Value": "Content-Encoding"
-        }
-      ],
-      "EndpointProperties": [
-        {
-          "Name": "integrity",
-          "Value": "sha256-dVP8/4iB0N/qb2O9vKkMiXko/s8pUBTK277tBxrN7Ns="
-        }
-      ]
-    },
-    {
-      "Route": "_framework/CurriculoInterativo.wasm",
-      "AssetFile": "C:\\Users\\Inteli\\Documents\\GitHub\\2024-2A-T10-SI07-G03\\Parte-pratica\\CurriculoInterativo\\bin\\Debug\\net9.0\\wwwroot\\_framework\\CurriculoInterativo.wasm",
-      "Selectors": [],
-      "ResponseHeaders": [
-        {
-          "Name": "Accept-Ranges",
-          "Value": "bytes"
-        },
-        {
-          "Name": "Content-Length",
-          "Value": "19733"
-        },
-        {
-          "Name": "Content-Type",
-          "Value": "application/wasm"
-        },
-        {
-          "Name": "ETag",
-          "Value": "\"vIVW3vc0OfS+U6jK/OdWJNViSg8vYXqttoRJSF/bzd4=\""
-        },
-        {
-          "Name": "Last-Modified",
-          "Value": "Fri, 04 Apr 2025 13:25:44 GMT"
-        },
-        {
-          "Name": "Cache-Control",
-          "Value": "no-cache"
-        }
-      ],
-      "EndpointProperties": [
-        {
-          "Name": "integrity",
-          "Value": "sha256-vIVW3vc0OfS+U6jK/OdWJNViSg8vYXqttoRJSF/bzd4="
-        }
-      ]
-    },
-    {
-      "Route": "_framework/CurriculoInterativo.wasm",
-      "AssetFile": "C:\\Users\\Inteli\\Documents\\GitHub\\2024-2A-T10-SI07-G03\\Parte-pratica\\CurriculoInterativo\\obj\\Debug\\net9.0\\compressed\\tg214clj6i-gty8c7ljef.gz",
-      "Selectors": [
-        {
-          "Name": "Content-Encoding",
-          "Value": "gzip",
-          "Quality": "0.000122234446"
-        }
-      ],
-      "ResponseHeaders": [
-        {
-          "Name": "Accept-Ranges",
-          "Value": "bytes"
-        },
-        {
-          "Name": "Content-Length",
-          "Value": "8180"
-        },
-        {
-          "Name": "ETag",
-          "Value": "\"2qy/fIKd9XHa6TlwwQSGlVvczfz96jaUVCbn1yBD71c=\""
-        },
-        {
-          "Name": "Last-Modified",
-          "Value": "Fri, 04 Apr 2025 13:25:45 GMT"
-        },
-        {
-          "Name": "Cache-Control",
-          "Value": "no-cache"
-        },
-        {
-          "Name": "Content-Encoding",
-          "Value": "gzip"
-        },
-        {
-          "Name": "Vary",
-          "Value": "Content-Encoding"
-        },
-        {
-          "Name": "Content-Type",
-          "Value": "application/wasm"
-        },
-        {
-          "Name": "ETag",
-          "Value": "W/\"vIVW3vc0OfS+U6jK/OdWJNViSg8vYXqttoRJSF/bzd4=\""
-        }
-      ],
-      "EndpointProperties": [
-        {
-          "Name": "integrity",
-          "Value": "sha256-vIVW3vc0OfS+U6jK/OdWJNViSg8vYXqttoRJSF/bzd4="
-        }
-      ]
-    },
-    {
-      "Route": "_framework/CurriculoInterativo.wasm.gz",
-      "AssetFile": "C:\\Users\\Inteli\\Documents\\GitHub\\2024-2A-T10-SI07-G03\\Parte-pratica\\CurriculoInterativo\\obj\\Debug\\net9.0\\compressed\\tg214clj6i-gty8c7ljef.gz",
-      "Selectors": [],
-      "ResponseHeaders": [
-        {
-          "Name": "Accept-Ranges",
-          "Value": "bytes"
-        },
-        {
-          "Name": "Content-Length",
-          "Value": "8180"
-        },
-        {
-          "Name": "Content-Type",
-          "Value": "application/wasm"
-        },
-        {
-          "Name": "ETag",
-          "Value": "\"2qy/fIKd9XHa6TlwwQSGlVvczfz96jaUVCbn1yBD71c=\""
-        },
-        {
-          "Name": "Last-Modified",
-          "Value": "Fri, 04 Apr 2025 13:25:45 GMT"
-        },
-        {
-          "Name": "Cache-Control",
-          "Value": "no-cache"
-        },
-        {
-          "Name": "Content-Encoding",
-          "Value": "gzip"
-        },
-        {
-          "Name": "Vary",
-          "Value": "Content-Encoding"
-        }
-      ],
-      "EndpointProperties": [
-        {
-          "Name": "integrity",
-          "Value": "sha256-2qy/fIKd9XHa6TlwwQSGlVvczfz96jaUVCbn1yBD71c="
-        }
-      ]
-    },
-    {
-      "Route": "_framework/CurriculoInterativo.yco2nc7k4p.pdb",
-      "AssetFile": "C:\\Users\\Inteli\\Documents\\GitHub\\2024-2A-T10-SI07-G03\\Parte-pratica\\CurriculoInterativo\\bin\\Debug\\net9.0\\wwwroot\\_framework\\CurriculoInterativo.pdb",
-      "Selectors": [],
-      "ResponseHeaders": [
-        {
-          "Name": "Accept-Ranges",
-          "Value": "bytes"
-        },
-        {
-          "Name": "Content-Length",
-          "Value": "24112"
-        },
-        {
-          "Name": "Content-Type",
-          "Value": "application/octet-stream"
-        },
-        {
-          "Name": "ETag",
-          "Value": "\"LoFit6z6he3AKoiaCmt1gLXbCSxrJ+MyWJqNzF71p7s=\""
-        },
-        {
-          "Name": "Last-Modified",
-          "Value": "Fri, 04 Apr 2025 13:25:42 GMT"
+          "Value": "Fri, 04 Apr 2025 13:35:00 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -11428,7 +11035,7 @@
       "EndpointProperties": [
         {
           "Name": "fingerprint",
-          "Value": "yco2nc7k4p"
+          "Value": "oppw5exase"
         },
         {
           "Name": "label",
@@ -11436,18 +11043,18 @@
         },
         {
           "Name": "integrity",
-          "Value": "sha256-LoFit6z6he3AKoiaCmt1gLXbCSxrJ+MyWJqNzF71p7s="
+          "Value": "sha256-1AhQbc7QOUf93p9kLkDxykHCt7OmCFDA3u84BBlbvBA="
         }
       ]
     },
     {
-      "Route": "_framework/CurriculoInterativo.yco2nc7k4p.pdb",
-      "AssetFile": "C:\\Users\\Inteli\\Documents\\GitHub\\2024-2A-T10-SI07-G03\\Parte-pratica\\CurriculoInterativo\\obj\\Debug\\net9.0\\compressed\\fb5wa3i8sh-yco2nc7k4p.gz",
+      "Route": "_framework/CurriculoInterativo.oppw5exase.pdb",
+      "AssetFile": "C:\\Users\\Inteli\\Documents\\GitHub\\2024-2A-T10-SI07-G03\\Parte-pratica\\CurriculoInterativo\\obj\\Debug\\net9.0\\compressed\\fb5wa3i8sh-oppw5exase.gz",
       "Selectors": [
         {
           "Name": "Content-Encoding",
           "Value": "gzip",
-          "Quality": "0.000056824639"
+          "Quality": "0.000056821410"
         }
       ],
       "ResponseHeaders": [
@@ -11457,15 +11064,15 @@
         },
         {
           "Name": "Content-Length",
-          "Value": "17597"
+          "Value": "17598"
         },
         {
           "Name": "ETag",
-          "Value": "\"dVP8/4iB0N/qb2O9vKkMiXko/s8pUBTK277tBxrN7Ns=\""
+          "Value": "\"f3cI9D9Cd78mA2DRLzwAu0vdjCuZlPvzUFjZB0xqLAs=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Fri, 04 Apr 2025 13:25:45 GMT"
+          "Value": "Fri, 04 Apr 2025 13:35:02 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -11485,13 +11092,13 @@
         },
         {
           "Name": "ETag",
-          "Value": "W/\"LoFit6z6he3AKoiaCmt1gLXbCSxrJ+MyWJqNzF71p7s=\""
+          "Value": "W/\"1AhQbc7QOUf93p9kLkDxykHCt7OmCFDA3u84BBlbvBA=\""
         }
       ],
       "EndpointProperties": [
         {
           "Name": "fingerprint",
-          "Value": "yco2nc7k4p"
+          "Value": "oppw5exase"
         },
         {
           "Name": "label",
@@ -11499,13 +11106,13 @@
         },
         {
           "Name": "integrity",
-          "Value": "sha256-LoFit6z6he3AKoiaCmt1gLXbCSxrJ+MyWJqNzF71p7s="
+          "Value": "sha256-1AhQbc7QOUf93p9kLkDxykHCt7OmCFDA3u84BBlbvBA="
         }
       ]
     },
     {
-      "Route": "_framework/CurriculoInterativo.yco2nc7k4p.pdb.gz",
-      "AssetFile": "C:\\Users\\Inteli\\Documents\\GitHub\\2024-2A-T10-SI07-G03\\Parte-pratica\\CurriculoInterativo\\obj\\Debug\\net9.0\\compressed\\fb5wa3i8sh-yco2nc7k4p.gz",
+      "Route": "_framework/CurriculoInterativo.oppw5exase.pdb.gz",
+      "AssetFile": "C:\\Users\\Inteli\\Documents\\GitHub\\2024-2A-T10-SI07-G03\\Parte-pratica\\CurriculoInterativo\\obj\\Debug\\net9.0\\compressed\\fb5wa3i8sh-oppw5exase.gz",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -11514,7 +11121,7 @@
         },
         {
           "Name": "Content-Length",
-          "Value": "17597"
+          "Value": "17598"
         },
         {
           "Name": "Content-Type",
@@ -11522,11 +11129,11 @@
         },
         {
           "Name": "ETag",
-          "Value": "\"dVP8/4iB0N/qb2O9vKkMiXko/s8pUBTK277tBxrN7Ns=\""
+          "Value": "\"f3cI9D9Cd78mA2DRLzwAu0vdjCuZlPvzUFjZB0xqLAs=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Fri, 04 Apr 2025 13:25:45 GMT"
+          "Value": "Fri, 04 Apr 2025 13:35:02 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -11544,7 +11151,7 @@
       "EndpointProperties": [
         {
           "Name": "fingerprint",
-          "Value": "yco2nc7k4p"
+          "Value": "oppw5exase"
         },
         {
           "Name": "label",
@@ -11552,7 +11159,442 @@
         },
         {
           "Name": "integrity",
-          "Value": "sha256-dVP8/4iB0N/qb2O9vKkMiXko/s8pUBTK277tBxrN7Ns="
+          "Value": "sha256-f3cI9D9Cd78mA2DRLzwAu0vdjCuZlPvzUFjZB0xqLAs="
+        }
+      ]
+    },
+    {
+      "Route": "_framework/CurriculoInterativo.pdb",
+      "AssetFile": "C:\\Users\\Inteli\\Documents\\GitHub\\2024-2A-T10-SI07-G03\\Parte-pratica\\CurriculoInterativo\\bin\\Debug\\net9.0\\wwwroot\\_framework\\CurriculoInterativo.pdb",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "24112"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "application/octet-stream"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"1AhQbc7QOUf93p9kLkDxykHCt7OmCFDA3u84BBlbvBA=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Fri, 04 Apr 2025 13:35:00 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-1AhQbc7QOUf93p9kLkDxykHCt7OmCFDA3u84BBlbvBA="
+        }
+      ]
+    },
+    {
+      "Route": "_framework/CurriculoInterativo.pdb",
+      "AssetFile": "C:\\Users\\Inteli\\Documents\\GitHub\\2024-2A-T10-SI07-G03\\Parte-pratica\\CurriculoInterativo\\obj\\Debug\\net9.0\\compressed\\fb5wa3i8sh-oppw5exase.gz",
+      "Selectors": [
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip",
+          "Quality": "0.000056821410"
+        }
+      ],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "17598"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"f3cI9D9Cd78mA2DRLzwAu0vdjCuZlPvzUFjZB0xqLAs=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Fri, 04 Apr 2025 13:35:02 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        },
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip"
+        },
+        {
+          "Name": "Vary",
+          "Value": "Content-Encoding"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "application/octet-stream"
+        },
+        {
+          "Name": "ETag",
+          "Value": "W/\"1AhQbc7QOUf93p9kLkDxykHCt7OmCFDA3u84BBlbvBA=\""
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-1AhQbc7QOUf93p9kLkDxykHCt7OmCFDA3u84BBlbvBA="
+        }
+      ]
+    },
+    {
+      "Route": "_framework/CurriculoInterativo.pdb.gz",
+      "AssetFile": "C:\\Users\\Inteli\\Documents\\GitHub\\2024-2A-T10-SI07-G03\\Parte-pratica\\CurriculoInterativo\\obj\\Debug\\net9.0\\compressed\\fb5wa3i8sh-oppw5exase.gz",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "17598"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "application/octet-stream"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"f3cI9D9Cd78mA2DRLzwAu0vdjCuZlPvzUFjZB0xqLAs=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Fri, 04 Apr 2025 13:35:02 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        },
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip"
+        },
+        {
+          "Name": "Vary",
+          "Value": "Content-Encoding"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-f3cI9D9Cd78mA2DRLzwAu0vdjCuZlPvzUFjZB0xqLAs="
+        }
+      ]
+    },
+    {
+      "Route": "_framework/CurriculoInterativo.pzqliyocaz.wasm",
+      "AssetFile": "C:\\Users\\Inteli\\Documents\\GitHub\\2024-2A-T10-SI07-G03\\Parte-pratica\\CurriculoInterativo\\bin\\Debug\\net9.0\\wwwroot\\_framework\\CurriculoInterativo.wasm",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "20245"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "application/wasm"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"5RXhuruzOYhQTQHGbraEeuwT2jBblT/NThGhBmKTHSM=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Fri, 04 Apr 2025 13:35:00 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "pzqliyocaz"
+        },
+        {
+          "Name": "label",
+          "Value": "_framework/CurriculoInterativo.wasm"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-5RXhuruzOYhQTQHGbraEeuwT2jBblT/NThGhBmKTHSM="
+        }
+      ]
+    },
+    {
+      "Route": "_framework/CurriculoInterativo.pzqliyocaz.wasm",
+      "AssetFile": "C:\\Users\\Inteli\\Documents\\GitHub\\2024-2A-T10-SI07-G03\\Parte-pratica\\CurriculoInterativo\\obj\\Debug\\net9.0\\compressed\\tg214clj6i-pzqliyocaz.gz",
+      "Selectors": [
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip",
+          "Quality": "0.000120802126"
+        }
+      ],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "8277"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"D72N9OhNjf1kMuQ445vlWQz7j8dDizSd6vdKA5DKj1Q=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Fri, 04 Apr 2025 13:35:02 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        },
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip"
+        },
+        {
+          "Name": "Vary",
+          "Value": "Content-Encoding"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "application/wasm"
+        },
+        {
+          "Name": "ETag",
+          "Value": "W/\"5RXhuruzOYhQTQHGbraEeuwT2jBblT/NThGhBmKTHSM=\""
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "pzqliyocaz"
+        },
+        {
+          "Name": "label",
+          "Value": "_framework/CurriculoInterativo.wasm"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-5RXhuruzOYhQTQHGbraEeuwT2jBblT/NThGhBmKTHSM="
+        }
+      ]
+    },
+    {
+      "Route": "_framework/CurriculoInterativo.pzqliyocaz.wasm.gz",
+      "AssetFile": "C:\\Users\\Inteli\\Documents\\GitHub\\2024-2A-T10-SI07-G03\\Parte-pratica\\CurriculoInterativo\\obj\\Debug\\net9.0\\compressed\\tg214clj6i-pzqliyocaz.gz",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "8277"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "application/wasm"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"D72N9OhNjf1kMuQ445vlWQz7j8dDizSd6vdKA5DKj1Q=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Fri, 04 Apr 2025 13:35:02 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        },
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip"
+        },
+        {
+          "Name": "Vary",
+          "Value": "Content-Encoding"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "pzqliyocaz"
+        },
+        {
+          "Name": "label",
+          "Value": "_framework/CurriculoInterativo.wasm.gz"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-D72N9OhNjf1kMuQ445vlWQz7j8dDizSd6vdKA5DKj1Q="
+        }
+      ]
+    },
+    {
+      "Route": "_framework/CurriculoInterativo.wasm",
+      "AssetFile": "C:\\Users\\Inteli\\Documents\\GitHub\\2024-2A-T10-SI07-G03\\Parte-pratica\\CurriculoInterativo\\bin\\Debug\\net9.0\\wwwroot\\_framework\\CurriculoInterativo.wasm",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "20245"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "application/wasm"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"5RXhuruzOYhQTQHGbraEeuwT2jBblT/NThGhBmKTHSM=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Fri, 04 Apr 2025 13:35:00 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-5RXhuruzOYhQTQHGbraEeuwT2jBblT/NThGhBmKTHSM="
+        }
+      ]
+    },
+    {
+      "Route": "_framework/CurriculoInterativo.wasm",
+      "AssetFile": "C:\\Users\\Inteli\\Documents\\GitHub\\2024-2A-T10-SI07-G03\\Parte-pratica\\CurriculoInterativo\\obj\\Debug\\net9.0\\compressed\\tg214clj6i-pzqliyocaz.gz",
+      "Selectors": [
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip",
+          "Quality": "0.000120802126"
+        }
+      ],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "8277"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"D72N9OhNjf1kMuQ445vlWQz7j8dDizSd6vdKA5DKj1Q=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Fri, 04 Apr 2025 13:35:02 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        },
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip"
+        },
+        {
+          "Name": "Vary",
+          "Value": "Content-Encoding"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "application/wasm"
+        },
+        {
+          "Name": "ETag",
+          "Value": "W/\"5RXhuruzOYhQTQHGbraEeuwT2jBblT/NThGhBmKTHSM=\""
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-5RXhuruzOYhQTQHGbraEeuwT2jBblT/NThGhBmKTHSM="
+        }
+      ]
+    },
+    {
+      "Route": "_framework/CurriculoInterativo.wasm.gz",
+      "AssetFile": "C:\\Users\\Inteli\\Documents\\GitHub\\2024-2A-T10-SI07-G03\\Parte-pratica\\CurriculoInterativo\\obj\\Debug\\net9.0\\compressed\\tg214clj6i-pzqliyocaz.gz",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "8277"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "application/wasm"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"D72N9OhNjf1kMuQ445vlWQz7j8dDizSd6vdKA5DKj1Q=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Fri, 04 Apr 2025 13:35:02 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        },
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip"
+        },
+        {
+          "Name": "Vary",
+          "Value": "Content-Encoding"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-D72N9OhNjf1kMuQ445vlWQz7j8dDizSd6vdKA5DKj1Q="
         }
       ]
     },
@@ -11626,7 +11668,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Fri, 04 Apr 2025 13:25:46 GMT"
+          "Value": "Tue, 11 Feb 2025 23:25:00 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -11687,7 +11729,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Fri, 04 Apr 2025 13:25:46 GMT"
+          "Value": "Tue, 11 Feb 2025 23:25:00 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -11779,7 +11821,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Fri, 04 Apr 2025 13:25:46 GMT"
+          "Value": "Tue, 11 Feb 2025 23:25:00 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -11879,7 +11921,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Fri, 04 Apr 2025 13:25:46 GMT"
+          "Value": "Tue, 11 Feb 2025 23:25:00 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -11940,7 +11982,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Fri, 04 Apr 2025 13:25:46 GMT"
+          "Value": "Tue, 11 Feb 2025 23:25:00 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -11993,7 +12035,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Fri, 04 Apr 2025 13:25:46 GMT"
+          "Value": "Tue, 11 Feb 2025 23:25:00 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -12077,7 +12119,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Fri, 04 Apr 2025 13:25:46 GMT"
+          "Value": "Tue, 11 Feb 2025 23:25:00 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -12130,7 +12172,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Fri, 04 Apr 2025 13:25:46 GMT"
+          "Value": "Tue, 11 Feb 2025 23:25:00 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -12947,7 +12989,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Fri, 04 Apr 2025 13:25:46 GMT"
+          "Value": "Tue, 11 Feb 2025 23:25:06 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -13000,7 +13042,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Fri, 04 Apr 2025 13:25:46 GMT"
+          "Value": "Tue, 11 Feb 2025 23:25:06 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -13092,7 +13134,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Fri, 04 Apr 2025 13:25:46 GMT"
+          "Value": "Tue, 11 Feb 2025 23:25:06 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -13153,7 +13195,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Fri, 04 Apr 2025 13:25:46 GMT"
+          "Value": "Tue, 11 Feb 2025 23:25:06 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -71451,6 +71493,304 @@
         {
           "Name": "integrity",
           "Value": "sha256-BYTUyBAiEeG7Bo7c/dBQmV8imzHAUazp04UQQGOhqjw="
+        }
+      ]
+    },
+    {
+      "Route": "curriculo.html",
+      "AssetFile": "C:\\Users\\Inteli\\Documents\\GitHub\\2024-2A-T10-SI07-G03\\Parte-pratica\\CurriculoInterativo\\obj\\Debug\\net9.0\\compressed\\yjxumy9lk8-htn1gg5sry.gz",
+      "Selectors": [
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip",
+          "Quality": "0.001298701299"
+        }
+      ],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "769"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"PAacjRNngZ8WpfDpCqAOGD2Finih4NVkf0qMIILbZnQ=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Fri, 04 Apr 2025 13:26:07 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        },
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip"
+        },
+        {
+          "Name": "Vary",
+          "Value": "Content-Encoding"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/html"
+        },
+        {
+          "Name": "ETag",
+          "Value": "W/\"1c4yrWxZFDZnhFR/VovYGrcIBzyyG4GyesOmOO4VzYU=\""
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-1c4yrWxZFDZnhFR/VovYGrcIBzyyG4GyesOmOO4VzYU="
+        }
+      ]
+    },
+    {
+      "Route": "curriculo.html",
+      "AssetFile": "C:\\Users\\Inteli\\Documents\\GitHub\\2024-2A-T10-SI07-G03\\Parte-pratica\\CurriculoInterativo\\wwwroot\\curriculo.html",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "1997"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/html"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"1c4yrWxZFDZnhFR/VovYGrcIBzyyG4GyesOmOO4VzYU=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Fri, 04 Apr 2025 13:26:07 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-1c4yrWxZFDZnhFR/VovYGrcIBzyyG4GyesOmOO4VzYU="
+        }
+      ]
+    },
+    {
+      "Route": "curriculo.html.gz",
+      "AssetFile": "C:\\Users\\Inteli\\Documents\\GitHub\\2024-2A-T10-SI07-G03\\Parte-pratica\\CurriculoInterativo\\obj\\Debug\\net9.0\\compressed\\yjxumy9lk8-htn1gg5sry.gz",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "769"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/html"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"PAacjRNngZ8WpfDpCqAOGD2Finih4NVkf0qMIILbZnQ=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Fri, 04 Apr 2025 13:26:07 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        },
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip"
+        },
+        {
+          "Name": "Vary",
+          "Value": "Content-Encoding"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-PAacjRNngZ8WpfDpCqAOGD2Finih4NVkf0qMIILbZnQ="
+        }
+      ]
+    },
+    {
+      "Route": "curriculo.htn1gg5sry.html",
+      "AssetFile": "C:\\Users\\Inteli\\Documents\\GitHub\\2024-2A-T10-SI07-G03\\Parte-pratica\\CurriculoInterativo\\obj\\Debug\\net9.0\\compressed\\yjxumy9lk8-htn1gg5sry.gz",
+      "Selectors": [
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip",
+          "Quality": "0.001298701299"
+        }
+      ],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "769"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"PAacjRNngZ8WpfDpCqAOGD2Finih4NVkf0qMIILbZnQ=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Fri, 04 Apr 2025 13:26:07 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        },
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip"
+        },
+        {
+          "Name": "Vary",
+          "Value": "Content-Encoding"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/html"
+        },
+        {
+          "Name": "ETag",
+          "Value": "W/\"1c4yrWxZFDZnhFR/VovYGrcIBzyyG4GyesOmOO4VzYU=\""
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "htn1gg5sry"
+        },
+        {
+          "Name": "label",
+          "Value": "curriculo.html"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-1c4yrWxZFDZnhFR/VovYGrcIBzyyG4GyesOmOO4VzYU="
+        }
+      ]
+    },
+    {
+      "Route": "curriculo.htn1gg5sry.html",
+      "AssetFile": "C:\\Users\\Inteli\\Documents\\GitHub\\2024-2A-T10-SI07-G03\\Parte-pratica\\CurriculoInterativo\\wwwroot\\curriculo.html",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "1997"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/html"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"1c4yrWxZFDZnhFR/VovYGrcIBzyyG4GyesOmOO4VzYU=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Fri, 04 Apr 2025 13:26:07 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "htn1gg5sry"
+        },
+        {
+          "Name": "label",
+          "Value": "curriculo.html"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-1c4yrWxZFDZnhFR/VovYGrcIBzyyG4GyesOmOO4VzYU="
+        }
+      ]
+    },
+    {
+      "Route": "curriculo.htn1gg5sry.html.gz",
+      "AssetFile": "C:\\Users\\Inteli\\Documents\\GitHub\\2024-2A-T10-SI07-G03\\Parte-pratica\\CurriculoInterativo\\obj\\Debug\\net9.0\\compressed\\yjxumy9lk8-htn1gg5sry.gz",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "769"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/html"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"PAacjRNngZ8WpfDpCqAOGD2Finih4NVkf0qMIILbZnQ=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Fri, 04 Apr 2025 13:26:07 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        },
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip"
+        },
+        {
+          "Name": "Vary",
+          "Value": "Content-Encoding"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "htn1gg5sry"
+        },
+        {
+          "Name": "label",
+          "Value": "curriculo.html.gz"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-PAacjRNngZ8WpfDpCqAOGD2Finih4NVkf0qMIILbZnQ="
         }
       ]
     },
